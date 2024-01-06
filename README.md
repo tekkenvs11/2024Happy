@@ -70,7 +70,9 @@
 
 ![image](https://github.com/tekkenvs11/2024Happy/assets/23052281/58b66431-ea3b-4908-b81e-32a6dd1b9ecb)
 
-下载过程需要等待大概40秒 请耐心等待。。。。
+
+注意：下载过程需要等待大概40秒 请耐心等待。。。。
+
 ![image](https://github.com/tekkenvs11/2024Happy/assets/23052281/748efad0-f95b-4209-a794-bee0c1dc140d)
 
 
