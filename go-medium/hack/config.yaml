@@ -1,0 +1,13 @@
+
+# CLI tool, only in development environment.
+# https://goframe.org/pages/viewpage.action?pageId=3673173
+gfcli:
+  build:
+    arch: "amd64"
+    system: "windows"
+#    system: "linux"
+#    system: "darwin"
+    mod: "none"
+    packSrc: "manifest"
+    version: "v1.0.0"
+    output: "./bin/go-medium.exe"
